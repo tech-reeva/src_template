@@ -1,0 +1,100 @@
+{
+   "items": [
+      {
+         "id": 1,
+         "amount": 1,
+         "img": "./img/product1.webp",
+         "head": "Cashmere Tank + Bag",
+         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur ullam nobis repudiandae laboriosam? Atque laborum sequi exercitationem ducimus nesciunt itaque impedit magni, iste quis enim dicta eaque molestiae non ratione!",
+         "price": 98.0,
+         "oldPrice": 120.0,
+         "category":"women",
+         "fav": false,
+         "like": false
+      },
+      {
+         "id": 2,
+         "amount": 1,
+         "img": "./img/product2.webp",
+         "head": "Cashmere Tank + Bag",
+         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur ullam nobis repudiandae laboriosam? Atque laborum sequi exercitationem ducimus nesciunt itaque impedit magni, iste quis enim dicta eaque molestiae non ratione!",
+         "price": 98.0,
+         "oldPrice": 120.0,
+         "category":"fashoin",
+         "fav": false,
+         "like": false
+      },
+      {
+         "id": 3,
+         "amount": 1,
+         "img": "./img/product3.webp",
+         "head": "Cashmere Tank + Bag",
+         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur ullam nobis repudiandae laboriosam? Atque laborum sequi exercitationem ducimus nesciunt itaque impedit magni, iste quis enim dicta eaque molestiae non ratione!",
+         "price": 98.0,
+         "oldPrice": 120.0,
+         "category":"women",
+         "fav": false,
+         "like": false
+      },
+      {
+         "id": 4,
+         "amount": 1,
+         "img": "./img/product4.webp",
+         "head": "Cashmere Tank + Bag",
+         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur ullam nobis repudiandae laboriosam? Atque laborum sequi exercitationem ducimus nesciunt itaque impedit magni, iste quis enim dicta eaque molestiae non ratione!",
+         "price": 98.0,
+         "oldPrice": 120.0,
+         "category":"fashoin",
+         "fav": false,
+         "like": false
+      },
+      {
+         "id": 5,
+         "amount": 1,
+         "img": "./img/product5.webp",
+         "head": "Cashmere Tank + Bag",
+         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur ullam nobis repudiandae laboriosam? Atque laborum sequi exercitationem ducimus nesciunt itaque impedit magni, iste quis enim dicta eaque molestiae non ratione!",
+         "price": 98.0,
+         "oldPrice": 120.0,
+         "category":"fashoin",
+         "fav": false,
+         "like": true
+      },
+      {
+         "id": 6,
+         "amount": 1,
+         "img": "./img/product6.webp",
+         "head": "Cashmere Tank + Bag",
+         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur ullam nobis repudiandae laboriosam? Atque laborum sequi exercitationem ducimus nesciunt itaque impedit magni, iste quis enim dicta eaque molestiae non ratione!",
+         "price": 98.0,
+         "oldPrice": 120.0,
+         "category":"fashoin",
+         "fav": false,
+         "like": true
+      },
+      {
+         "id": 7,
+         "amount": 1,
+         "img": "./img/product7.webp",
+         "head": "Cashmere Tank + Bag",
+         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur ullam nobis repudiandae laboriosam? Atque laborum sequi exercitationem ducimus nesciunt itaque impedit magni, iste quis enim dicta eaque molestiae non ratione!",
+         "price": 98.0,
+         "oldPrice": 120.0,
+         "category":"men",
+         "fav": false,
+         "like": true
+      },
+      {
+         "id": 8,
+         "amount": 1,
+         "img": "./img/product8.webp",
+         "head": "Cashmere Tank + Bag",
+         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur ullam nobis repudiandae laboriosam? Atque laborum sequi exercitationem ducimus nesciunt itaque impedit magni, iste quis enim dicta eaque molestiae non ratione!",
+         "price": 98.0,
+         "oldPrice": 120.0,
+         "category":"men",
+         "fav": false,
+         "like": true
+      }
+   ]
+}
